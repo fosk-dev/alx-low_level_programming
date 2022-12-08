@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* Betty comment: Size of various type en C */
+/**
+ * main - Entry point
+ *
+ *  Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int a;
