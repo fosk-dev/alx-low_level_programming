@@ -1,9 +1,6 @@
 #include <stdio.h>
 
-/**
- *  main - Entry point  
- *  Return: Always 0 (Success)
- */
+/* Betty comment: Size of various type en C */
 int main(void)
 {
 	int a;
