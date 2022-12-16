@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /**
- * main - code for entry piont 
+ * main - code for entry piont
+ *
  * Return: Always 0
  */
 int main(void)
